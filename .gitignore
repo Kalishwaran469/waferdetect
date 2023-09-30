@@ -5,9 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-demo.py
+demo.py/
 logs/
-*.pkl
 # Distribution / packaging
 .Python
 build/
@@ -133,8 +132,6 @@ dmypy.json
 .pyre/
 
 demo.py
-artifacts
-prediction_artifacts
 predictions
 test.ipynb
 
